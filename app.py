@@ -88,7 +88,7 @@ st.markdown("## 📬 Contact Me")
 contact_info = """
 - 📧 **Email:** ransinghemangi@gmail.com
 - 💼 **LinkedIn:** [linkedin.com/in/hemangi-ransing](https://www.linkedin.com/in/hemangi-ransing)  
-- 🖥️ **GitHub:** [github.com/yourgithub](https://github.com/Hemangi2212)  
+- 🖥️ **GitHub:** [github.com/my-github](https://github.com/Hemangi2212)  
 """
 st.markdown(contact_info)
 
