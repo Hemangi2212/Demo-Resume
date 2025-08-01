@@ -69,7 +69,7 @@ st.markdown("<hr>", unsafe_allow_html=True)
 st.markdown("## 📄 Resume")
 
 # Check if resume file exists
-resume_path = "Personal Resume.pdf"
+resume_path = "Personal  Resume.pdf"
 if Path(resume_path).exists():
     with open(resume_path, "rb") as file:
         btn = st.download_button(
